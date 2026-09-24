@@ -1,1 +1,1 @@
-# This is just for rewiewers to help me fix wights of my connections
+# This is just for rewiewers to help me fix widghts of my connections
