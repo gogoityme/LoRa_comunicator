@@ -1,5 +1,7 @@
 # LoRa-comunicator
 
+**For some reason I cant upload .history files to this repo so I uploaded it here: https://drive.google.com/drive/folders/1uOQKTIaHVd6gNlLYLUI4MQFI1cR0wfdA?usp=drive_link**
+
 **Something about this project**
 
 Okay so it all started with me watching some videos about meshcore and meshtastic. So I ordered one simple module (seeed studio xiao with LoRa module). Then I wanted something that would be like a standalone device with keyboard. I looked at some T-decks and told myself that it is quite expensive. So I started designing my own. That two versions that I made are using the same components so the BOM is the same but version V1.1 is using 5 more switches and diodes because of keyboard layout. And also the case would be aviliable on makerworld and in this repo (also with modified meshcore firmware) after I test the phisical product and I would have the rigt dimensions (I dont want to use dimensions shown on product websites, I simply dont trust them). BTW pictures are only from V1.1 because I think that this version is better.
