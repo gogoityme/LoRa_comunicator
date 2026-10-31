@@ -11,6 +11,10 @@ Okay so it all started with me watching some videos about meshcore and meshtasti
 I have not ordered it yet but here would be updates 
 All the placings you can do with BOM as reference.
 
+**Firmware**
+
+It is in "firmware.zip" Because I dont know how to compile it for webflasher so I added it here.
+
 # Some pictures from CAD and 3Drender
 
 **Power management**
