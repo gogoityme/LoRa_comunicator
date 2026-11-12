@@ -39,3 +39,6 @@ It is in "firmware.zip" Because I dont know how to compile it for webflasher so 
 
 <img width="723" height="657" alt="Snímka obrazovky 2026-11-12 140945" src="https://github.com/user-attachments/assets/e1b3ec27-9c55-4938-a185-63007d55485a" />
 
+**credits**
+
+https://github.com/meshcore-dev/MeshCore
