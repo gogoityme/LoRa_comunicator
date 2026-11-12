@@ -34,3 +34,8 @@ It is in "firmware.zip" Because I dont know how to compile it for webflasher so 
 <img width="772" height="566" alt="Snímka obrazovky 2026-09-29 162827" src="https://github.com/user-attachments/assets/24d07db0-a065-4f37-8939-aa0e3d0345f0" />
 
 <img width="917" height="762" alt="Snímka obrazovky 2026-09-29 162906" src="https://github.com/user-attachments/assets/de98ce36-7f9d-4d57-99ed-a255698f7b17" />
+
+**Enclosure**
+
+<img width="723" height="657" alt="Snímka obrazovky 2026-11-12 140945" src="https://github.com/user-attachments/assets/e1b3ec27-9c55-4938-a185-63007d55485a" />
+
